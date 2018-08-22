@@ -1,10 +1,10 @@
 {
     "2018-08": {
-        "T Min Time": "2018-08-19 22:51", 
+        "T Min Time": "2018-08-20 04:08", 
         "T Max": "38.0", 
         "Temperature": "29.4", 
         "SunShine": "", 
-        "T Min": "24.6", 
+        "T Min": "24.5", 
         "StnPresMaxTime": "2018-08-05 07:30", 
         "T Max Time": "2018-08-02 14:25", 
         "WD": "4", 
@@ -14,7 +14,7 @@
         "WSGust": "9.9", 
         "PrecpMax10": "", 
         "WGustTime": "2018-08-01 13:07", 
-        "RH": "72", 
+        "RH": "73", 
         "PrecpHrMax": "", 
         "EvapA": "", 
         "PrecpDay": "8", 
