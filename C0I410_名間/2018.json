@@ -1,14 +1,14 @@
 {
     "2018-09": {
         "T Min Time": "2018-09-03 06:11", 
-        "T Max": "32.5", 
-        "Temperature": "26.9", 
+        "T Max": "33.2", 
+        "Temperature": "27.1", 
         "SunShine": "", 
         "T Min": "22.6", 
         "StnPresMaxTime": "2018-09-01 00:01", 
-        "T Max Time": "2018-09-03 13:07", 
+        "T Max Time": "2018-09-04 13:33", 
         "WD": "117", 
-        "WS": "1.1", 
+        "WS": "1.2", 
         "PrecpHrMaxTime": "", 
         "Precp1DayMaxTime": "2018-09-03 00:00", 
         "WSGust": "7.2", 
@@ -21,16 +21,16 @@
         "PrecpHour": "", 
         "ObsTime": "2018-09", 
         "SeaPres": "", 
-        "StnPres": "988.0", 
+        "StnPres": "987.3", 
         "Td dew point": "", 
-        "StnPresMin": "984.2", 
+        "StnPresMin": "982.3", 
         "StnPresMax": "992.2", 
         "Precp": "0.0", 
         "GloblRad": "", 
         "PrecpMax10Time": "", 
         "Precp1DayMax": "0.0", 
         "WDGust": "7", 
-        "StnPresMinTime": "2018-09-03 16:34"
+        "StnPresMinTime": "2018-09-04 15:02"
     }, 
     "2018-08": {
         "T Min Time": "2018-08-24 00:07", 
