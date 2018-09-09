@@ -10,10 +10,10 @@
         "WD": "43", 
         "WS": "1.5", 
         "PrecpHrMaxTime": "", 
-        "Precp1DayMaxTime": "2018-09-03 00:00", 
-        "WSGust": "7.8", 
+        "Precp1DayMaxTime": "2018-09-07 00:00", 
+        "WSGust": "9.6", 
         "PrecpMax10": "", 
-        "WGustTime": "2018-09-03 14:07", 
+        "WGustTime": "2018-09-07 14:50", 
         "RH": "80", 
         "PrecpHrMax": "", 
         "EvapA": "", 
@@ -29,7 +29,7 @@
         "GloblRad": "", 
         "PrecpMax10Time": "", 
         "Precp1DayMax": "0.0", 
-        "WDGust": "7", 
+        "WDGust": "9", 
         "StnPresMinTime": "2018-09-04 03:38"
     }, 
     "2018-08": {
