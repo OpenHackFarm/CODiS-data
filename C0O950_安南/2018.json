@@ -8,13 +8,13 @@
         "StnPresMaxTime": "2018-09-01 00:01", 
         "T Max Time": "2018-09-05 13:11", 
         "WD": "140", 
-        "WS": "0.8", 
+        "WS": "0.9", 
         "PrecpHrMaxTime": "", 
         "Precp1DayMaxTime": "2018-09-07 00:00", 
         "WSGust": "10.6", 
         "PrecpMax10": "", 
         "WGustTime": "2018-09-09 13:57", 
-        "RH": "97", 
+        "RH": "96", 
         "PrecpHrMax": "", 
         "EvapA": "", 
         "PrecpDay": "2", 
@@ -30,7 +30,7 @@
         "PrecpMax10Time": "", 
         "Precp1DayMax": "5.5", 
         "WDGust": "10", 
-        "StnPresMinTime": "2018-09-04 15:04"
+        "StnPresMinTime": "2018-09-05 15:04"
     }, 
     "2018-08": {
         "T Min Time": "2018-08-23 18:39", 
