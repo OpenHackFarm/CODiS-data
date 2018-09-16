@@ -14,10 +14,10 @@
         "WSGust": "9.6", 
         "PrecpMax10": "", 
         "WGustTime": "2018-09-11 04:30", 
-        "RH": "90", 
+        "RH": "88", 
         "PrecpHrMax": "", 
         "EvapA": "", 
-        "PrecpDay": "7", 
+        "PrecpDay": "8", 
         "PrecpHour": "", 
         "ObsTime": "2018-09", 
         "SeaPres": "", 
@@ -25,12 +25,12 @@
         "Td dew point": "", 
         "StnPresMin": "703.9", 
         "StnPresMax": "709.3", 
-        "Precp": "70.5", 
+        "Precp": "71.0", 
         "GloblRad": "", 
         "PrecpMax10Time": "", 
         "Precp1DayMax": "41.0", 
         "WDGust": "9", 
-        "StnPresMinTime": "2018-09-04 03:37"
+        "StnPresMinTime": "2018-09-14 23:47"
     }, 
     "2018-08": {
         "T Min Time": "2018-08-11 03:49", 
