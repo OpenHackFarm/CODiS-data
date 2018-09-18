@@ -2,19 +2,19 @@
     "2018-09": {
         "T Min Time": "2018-09-10 05:04", 
         "T Max": "35.7", 
-        "Temperature": "27.8", 
+        "Temperature": "27.9", 
         "SunShine": "", 
         "T Min": "21.1", 
         "StnPresMaxTime": "2018-09-09 22:22", 
         "T Max Time": "2018-09-04 13:51", 
         "WD": "77", 
-        "WS": "2.2", 
+        "WS": "2.3", 
         "PrecpHrMaxTime": "", 
         "Precp1DayMaxTime": "2018-09-01 00:00", 
         "WSGust": "17.6", 
         "PrecpMax10": "", 
         "WGustTime": "2018-09-11 00:10", 
-        "RH": "87", 
+        "RH": "86", 
         "PrecpHrMax": "", 
         "EvapA": "", 
         "PrecpDay": "6", 
@@ -30,7 +30,7 @@
         "PrecpMax10Time": "", 
         "Precp1DayMax": "44.0", 
         "WDGust": "17", 
-        "StnPresMinTime": "2018-09-04 15:01"
+        "StnPresMinTime": "2018-09-16 03:01"
     }, 
     "2018-08": {
         "T Min Time": "2018-08-29 18:22", 
