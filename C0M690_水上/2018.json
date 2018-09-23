@@ -1,12 +1,12 @@
 {
     "2018-09": {
         "T Min Time": "2018-09-10 06:27", 
-        "T Max": "32.6", 
+        "T Max": "32.7", 
         "Temperature": "27.7", 
         "SunShine": "", 
         "T Min": "23.3", 
         "StnPresMaxTime": "2018-09-17 22:40", 
-        "T Max Time": "2018-09-17 13:21", 
+        "T Max Time": "2018-09-21 14:21", 
         "WD": "2", 
         "WS": "1.3", 
         "PrecpHrMaxTime": "", 
@@ -21,7 +21,7 @@
         "PrecpHour": "", 
         "ObsTime": "2018-09", 
         "SeaPres": "", 
-        "StnPres": "1003.7", 
+        "StnPres": "1003.9", 
         "Td dew point": "", 
         "StnPresMin": "993.9", 
         "StnPresMax": "1011.4", 
