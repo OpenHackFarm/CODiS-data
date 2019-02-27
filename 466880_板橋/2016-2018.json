@@ -1,0 +1,134 @@
+{
+    "02": {
+        "Td dew point": 10.9, 
+        "SunShine": 53.23, 
+        "Temperature": 15.63, 
+        "Precp": 140.27, 
+        "EvapA": 41.13, 
+        "GloblRad": 167.16, 
+        "PrecpDay": 13.67, 
+        "PrecpHour": 169.53, 
+        "RH": 75.0
+    }, 
+    "03": {
+        "Td dew point": 13.47, 
+        "SunShine": 92.33, 
+        "Temperature": 18.37, 
+        "Precp": 185.5, 
+        "EvapA": 59.27, 
+        "GloblRad": 309.58, 
+        "PrecpDay": 14.33, 
+        "PrecpHour": 144.47, 
+        "RH": 74.33
+    }, 
+    "01": {
+        "Td dew point": 12.6, 
+        "SunShine": 47.53, 
+        "Temperature": 16.93, 
+        "Precp": 204.67, 
+        "EvapA": 40.03, 
+        "GloblRad": 176.99, 
+        "PrecpDay": 13.67, 
+        "PrecpHour": 173.53, 
+        "RH": 76.33
+    }, 
+    "06": {
+        "Td dew point": 23.3, 
+        "SunShine": 147.7, 
+        "Temperature": 28.33, 
+        "Precp": 431.83, 
+        "EvapA": 106.9, 
+        "GloblRad": 475.02, 
+        "PrecpDay": 14.67, 
+        "PrecpHour": 90.57, 
+        "RH": 75.0
+    }, 
+    "07": {
+        "Td dew point": 23.63, 
+        "SunShine": 225.13, 
+        "Temperature": 29.9, 
+        "Precp": 231.93, 
+        "EvapA": 138.63, 
+        "GloblRad": 608.29, 
+        "PrecpDay": 12.33, 
+        "PrecpHour": 43.03, 
+        "RH": 70.0
+    }, 
+    "04": {
+        "Td dew point": 17.37, 
+        "SunShine": 107.13, 
+        "Temperature": 22.97, 
+        "Precp": 119.73, 
+        "EvapA": 75.8, 
+        "GloblRad": 378.59, 
+        "PrecpDay": 11.33, 
+        "PrecpHour": 78.17, 
+        "RH": 71.67
+    }, 
+    "05": {
+        "Td dew point": 21.17, 
+        "SunShine": 138.87, 
+        "Temperature": 26.73, 
+        "Precp": 114.43, 
+        "EvapA": 104.33, 
+        "GloblRad": 483.08, 
+        "PrecpDay": 10.0, 
+        "PrecpHour": 50.43, 
+        "RH": 72.0
+    }, 
+    "08": {
+        "Td dew point": 23.57, 
+        "SunShine": 193.53, 
+        "Temperature": 29.77, 
+        "Precp": 168.63, 
+        "EvapA": 122.73, 
+        "GloblRad": 540.16, 
+        "PrecpDay": 12.0, 
+        "PrecpHour": 36.1, 
+        "RH": 70.67
+    }, 
+    "09": {
+        "Td dew point": 22.7, 
+        "SunShine": 123.73, 
+        "Temperature": 28.23, 
+        "Precp": 237.67, 
+        "EvapA": 84.4, 
+        "GloblRad": 393.42, 
+        "PrecpDay": 14.33, 
+        "PrecpHour": 99.97, 
+        "RH": 72.67
+    }, 
+    "12": {
+        "Td dew point": 14.4, 
+        "SunShine": 61.83, 
+        "Temperature": 18.87, 
+        "Precp": 51.83, 
+        "EvapA": 44.57, 
+        "GloblRad": 180.05, 
+        "PrecpDay": 11.67, 
+        "PrecpHour": 119.83, 
+        "RH": 76.33
+    }, 
+    "11": {
+        "Td dew point": 17.83, 
+        "SunShine": 59.23, 
+        "Temperature": 22.33, 
+        "Precp": 110.27, 
+        "EvapA": 48.73, 
+        "GloblRad": 203.35, 
+        "PrecpDay": 14.33, 
+        "PrecpHour": 128.47, 
+        "RH": 76.0
+    }, 
+    "10": {
+        "Td dew point": 19.9, 
+        "SunShine": 94.27, 
+        "Temperature": 25.17, 
+        "Precp": 204.67, 
+        "EvapA": 68.57, 
+        "GloblRad": 290.49, 
+        "PrecpDay": 14.0, 
+        "PrecpHour": 145.0, 
+        "RH": 73.33
+    }
+}
